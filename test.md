@@ -2,6 +2,8 @@
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Datasets:</h2>
 <tr>
@@ -40,9 +42,12 @@ title Records
 </td>
 </tr>
 </table>
+</details>
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Datasets By Region:</h2>
 <tr>
@@ -346,9 +351,12 @@ title Records
 </td>
 </tr>
 </table>
+</details>
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Datasets By Parent Category:</h2>
 <tr>
@@ -691,9 +699,12 @@ title Records
 </td>
 </tr>
 </table>
+</details>
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Datasets By Region And Parent Category:</h2>
 <tr>
@@ -2076,9 +2087,12 @@ title Records
 </td>
 </tr>
 </table>
+</details>
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Biggest Free Datasets By Count:</h2>
 <tr>
@@ -2142,9 +2156,12 @@ title Records
 </td>
 </tr>
 </table>
+</details>
 
 
 
+<details>
+<summary>Open</summary>
 <table border="1">
 <h2>Biggest Paid Datasets By Count:</h2>
 <tr>
@@ -2208,3 +2225,4 @@ title Records
 </td>
 </tr>
 </table>
+</details>
