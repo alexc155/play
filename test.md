@@ -3,9 +3,8 @@
 
 
 <details>
-<summary>Open</summary>
+<summary>Datasets</summary>
 <table border="1">
-<h2>Datasets:</h2>
 <tr>
 <td valign="top" colspan="3">
 <h3>Total:</h3>
@@ -47,9 +46,8 @@ title Records
 
 
 <details>
-<summary>Open</summary>
+<summary>Datasets By Region</summary>
 <table border="1">
-<h2>Datasets By Region:</h2>
 <tr>
 <td valign="top" colspan="3">
 <h2>Total</h2>
@@ -356,9 +354,8 @@ title Records
 
 
 <details>
-<summary>Open</summary>
+<summary>Datasets By Parent Category</summary>
 <table border="1">
-<h2>Datasets By Parent Category:</h2>
 <tr>
 <td valign="top" colspan="3">
 <h2>Total</h2>
@@ -704,9 +701,8 @@ title Records
 
 
 <details>
-<summary>Open</summary>
+<summary>Datasets By Region And Parent Category</summary>
 <table border="1">
-<h2>Datasets By Region And Parent Category:</h2>
 <tr>
 <td valign="top" colspan="3">
 <h2>Total</h2>
@@ -2092,9 +2088,8 @@ title Records
 
 
 <details>
-<summary>Open</summary>
+<summary>Biggest Free Datasets By Count</summary>
 <table border="1">
-<h2>Biggest Free Datasets By Count:</h2>
 <tr>
 <td valign="top" colspan="3">
 <tr>
@@ -2161,9 +2156,8 @@ title Records
 
 
 <details>
-<summary>Open</summary>
+<summary>Biggest Paid Datasets By Count</summary>
 <table border="1">
-<h2>Biggest Paid Datasets By Count:</h2>
 <tr>
 <td valign="top" colspan="3">
 <tr>
