@@ -24,9 +24,9 @@
 ```mermaid
 pie
 title Datasets
-  "free": 37.65548435733132
-  "paid": 61.70373162457595
-  "unknown": 0.6407840180927252
+  "Free": 37.65548435733132
+  "Paid": 61.70373162457595
+  "Unknown": 0.6407840180927252
 ```
 </td>
 <td valign="top">
@@ -34,9 +34,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 44.40522815673041
-  "paid": 55.568906319605624
-  "unknown": 0.02586552366396578
+  "Free": 44.40522815673041
+  "Paid": 55.568906319605624
+  "Unknown": 0.02586552366396578
 ```
 </td>
 </tr>
@@ -72,13 +72,13 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "americas": 39.27629099133057
-  "asia": 0.15077271013946475
-  "australasia": 12.702600829249905
-  "europe": 1.8092725216735772
-  "great britain": 37.09008669430833
-  "ireland": 8.933283075763288
-  "none": 0.03769317753486619
+  "Americas": 39.27629099133057
+  "Asia": 0.15077271013946475
+  "Australasia": 12.702600829249905
+  "Europe": 1.8092725216735772
+  "Great Britain": 37.09008669430833
+  "Ireland": 8.933283075763288
+  "None": 0.03769317753486619
 ```
 </td>
 <td valign="top">
@@ -86,13 +86,13 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "americas": 44.83556913748572
-  "asia": 0.1700776889523428
-  "australasia": 2.281430853942716
-  "europe": 3.1409980044831816
-  "great britain": 44.981204906155355
-  "ireland": 4.590670261840179
-  "none": 0.00004914714050683418
+  "Americas": 44.83556913748572
+  "Asia": 0.1700776889523428
+  "Australasia": 2.281430853942716
+  "Europe": 3.1409980044831816
+  "Great Britain": 44.981204906155355
+  "Ireland": 4.590670261840179
+  "None": 0.00004914714050683418
 ```
 </td>
 </tr>
@@ -116,9 +116,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 43.953934740882914
-  "paid": 54.510556621881
-  "unknown": 1.5355086372360844
+  "Free": 43.953934740882914
+  "Paid": 54.510556621881
+  "Unknown": 1.5355086372360844
 ```
 </td>
 <td valign="top">
@@ -126,9 +126,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 49.89073297124016
-  "paid": 50.05236309516937
-  "unknown": 0.05690393359046727
+  "Free": 49.89073297124016
+  "Paid": 50.05236309516937
+  "Unknown": 0.05690393359046727
 ```
 </td>
 </tr>
@@ -152,9 +152,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -162,9 +162,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -188,9 +188,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 16.61721068249258
-  "paid": 83.38278931750742
-  "unknown": 0
+  "Free": 16.61721068249258
+  "Paid": 83.38278931750742
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -198,9 +198,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 20.68648748389039
-  "paid": 79.31351251610961
-  "unknown": 0
+  "Free": 20.68648748389039
+  "Paid": 79.31351251610961
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -224,9 +224,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 70.83333333333334
-  "paid": 29.166666666666668
-  "unknown": 0
+  "Free": 70.83333333333334
+  "Paid": 29.166666666666668
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -234,9 +234,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 93.79630838191308
-  "paid": 6.203691618086926
-  "unknown": 0
+  "Free": 93.79630838191308
+  "Paid": 6.203691618086926
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -260,9 +260,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 38.3130081300813
-  "paid": 61.58536585365854
-  "unknown": 0.10162601626016261
+  "Free": 38.3130081300813
+  "Paid": 61.58536585365854
+  "Unknown": 0.10162601626016261
 ```
 </td>
 <td valign="top">
@@ -270,9 +270,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 34.627170175072116
-  "paid": 65.37204656183432
-  "unknown": 0.0007832630935474407
+  "Free": 34.627170175072116
+  "Paid": 65.37204656183432
+  "Unknown": 0.0007832630935474407
 ```
 </td>
 </tr>
@@ -296,9 +296,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 29.535864978902953
-  "paid": 70.46413502109705
-  "unknown": 0
+  "Free": 29.535864978902953
+  "Paid": 70.46413502109705
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -306,9 +306,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 62.57364997167696
-  "paid": 37.42635002832304
-  "unknown": 0
+  "Free": 62.57364997167696
+  "Paid": 37.42635002832304
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -332,9 +332,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -342,9 +342,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -381,14 +381,14 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "armed forces & conflict": 13.343384847342632
-  "census, land & surveys": 9.80022615906521
-  "churches & religion": 1.1307953260459858
-  "education & work": 5.729362985299661
-  "institutions & organisations": 6.860158311345646
-  "life events (bmds)": 37.617791179796455
-  "newspapers, directories & social history": 21.899736147757256
-  "travel & migration": 3.6185450433471544
+  "Armed Forces & Conflict": 13.343384847342632
+  "Census, Land & Surveys": 9.80022615906521
+  "Churches & Religion": 1.1307953260459858
+  "Education & Work": 5.729362985299661
+  "Institutions & Organisations": 6.860158311345646
+  "Life Events (bmds)": 37.617791179796455
+  "Newspapers, Directories & Social History": 21.899736147757256
+  "Travel & Migration": 3.6185450433471544
 ```
 </td>
 <td valign="top">
@@ -396,14 +396,14 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "armed forces & conflict": 3.1898306796570277
-  "census, land & surveys": 39.299336365998094
-  "churches & religion": 0.10640001362112181
-  "education & work": 0.7648822387984587
-  "institutions & organisations": 1.9249592254103447
-  "life events (bmds)": 42.46296458315996
-  "newspapers, directories & social history": 4.951306060494484
-  "travel & migration": 7.300320832860513
+  "Armed Forces & Conflict": 3.1898306796570277
+  "Census, Land & Surveys": 39.299336365998094
+  "Churches & Religion": 0.10640001362112181
+  "Education & Work": 0.7648822387984587
+  "Institutions & Organisations": 1.9249592254103447
+  "Life Events (bmds)": 42.46296458315996
+  "Newspapers, Directories & Social History": 4.951306060494484
+  "Travel & Migration": 7.300320832860513
 ```
 </td>
 </tr>
@@ -427,9 +427,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 25.98870056497175
-  "paid": 73.72881355932203
-  "unknown": 0.2824858757062147
+  "Free": 25.98870056497175
+  "Paid": 73.72881355932203
+  "Unknown": 0.2824858757062147
 ```
 </td>
 <td valign="top">
@@ -437,9 +437,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 16.224669651812093
-  "paid": 83.72867280867956
-  "unknown": 0.04665753950833971
+  "Free": 16.224669651812093
+  "Paid": 83.72867280867956
+  "Unknown": 0.04665753950833971
 ```
 </td>
 </tr>
@@ -463,9 +463,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 35
-  "paid": 63.84615384615384
-  "unknown": 1.153846153846154
+  "Free": 35
+  "Paid": 63.84615384615384
+  "Unknown": 1.153846153846154
 ```
 </td>
 <td valign="top">
@@ -473,9 +473,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 16.951637985826526
-  "paid": 83.04501506976865
-  "unknown": 0.003346944404825831
+  "Free": 16.951637985826526
+  "Paid": 83.04501506976865
+  "Unknown": 0.003346944404825831
 ```
 </td>
 </tr>
@@ -499,9 +499,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 16.666666666666664
-  "paid": 83.33333333333334
-  "unknown": 0
+  "Free": 16.666666666666664
+  "Paid": 83.33333333333334
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -509,9 +509,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 19.807751461088895
-  "paid": 80.1922485389111
-  "unknown": 0
+  "Free": 19.807751461088895
+  "Paid": 80.1922485389111
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -535,9 +535,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 17.763157894736842
-  "paid": 82.23684210526315
-  "unknown": 0
+  "Free": 17.763157894736842
+  "Paid": 82.23684210526315
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -545,9 +545,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 13.468645791435963
-  "paid": 86.53135420856404
-  "unknown": 0
+  "Free": 13.468645791435963
+  "Paid": 86.53135420856404
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -571,9 +571,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 26.923076923076923
-  "paid": 71.97802197802197
-  "unknown": 1.098901098901099
+  "Free": 26.923076923076923
+  "Paid": 71.97802197802197
+  "Unknown": 1.098901098901099
 ```
 </td>
 <td valign="top">
@@ -581,9 +581,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 11.522835333139689
-  "paid": 88.44208220082066
-  "unknown": 0.03508246603963872
+  "Free": 11.522835333139689
+  "Paid": 88.44208220082066
+  "Unknown": 0.03508246603963872
 ```
 </td>
 </tr>
@@ -607,9 +607,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 63.126252505010015
-  "paid": 35.97194388777555
-  "unknown": 0.9018036072144289
+  "Free": 63.126252505010015
+  "Paid": 35.97194388777555
+  "Unknown": 0.9018036072144289
 ```
 </td>
 <td valign="top">
@@ -617,9 +617,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 81.34467153641664
-  "paid": 18.608224175747814
-  "unknown": 0.047104287835539854
+  "Free": 81.34467153641664
+  "Paid": 18.608224175747814
+  "Unknown": 0.047104287835539854
 ```
 </td>
 </tr>
@@ -643,9 +643,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 13.080895008605854
-  "paid": 86.74698795180723
-  "unknown": 0.17211703958691912
+  "Free": 13.080895008605854
+  "Paid": 86.74698795180723
+  "Unknown": 0.17211703958691912
 ```
 </td>
 <td valign="top">
@@ -653,9 +653,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 8.892550564467955
-  "paid": 91.08118163576789
-  "unknown": 0.026267799764154408
+  "Free": 8.892550564467955
+  "Paid": 91.08118163576789
+  "Unknown": 0.026267799764154408
 ```
 </td>
 </tr>
@@ -679,9 +679,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 30.208333333333332
-  "paid": 68.75
-  "unknown": 1.0416666666666665
+  "Free": 30.208333333333332
+  "Paid": 68.75
+  "Unknown": 1.0416666666666665
 ```
 </td>
 <td valign="top">
@@ -689,9 +689,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 26.002232053194245
-  "paid": 73.98291790321763
-  "unknown": 0.014850043588122608
+  "Free": 26.002232053194245
+  "Paid": 73.98291790321763
+  "Unknown": 0.014850043588122608
 ```
 </td>
 </tr>
@@ -756,16 +756,16 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "americas: armed forces & conflict": 10.325047801147228
-  "americas: census, land & surveys": 10.611854684512428
-  "americas: churches & religion": 0.8604206500956023
-  "americas: education & work": 2.198852772466539
-  "americas: institutions & organisations": 4.015296367112811
-  "americas: life events (bmds)": 32.409177820267686
-  "americas: newspapers, directories & social history": 34.41682600382409
-  "americas: travel & migration": 4.780114722753346
-  "asia: life events (bmds)": 0.28680688336520077
-  "asia: newspapers, directories & social history": 0.09560229445506692
+  "Americas: Armed Forces & Conflict": 10.325047801147228
+  "Americas: Census, Land & Surveys": 10.611854684512428
+  "Americas: Churches & Religion": 0.8604206500956023
+  "Americas: Education & Work": 2.198852772466539
+  "Americas: Institutions & Organisations": 4.015296367112811
+  "Americas: Life Events (bmds)": 32.409177820267686
+  "Americas: Newspapers, Directories & Social History": 34.41682600382409
+  "Americas: Travel & Migration": 4.780114722753346
+  "Asia: Life Events (bmds)": 0.28680688336520077
+  "Asia: Newspapers, Directories & Social History": 0.09560229445506692
 ```
 </td>
 <td valign="top">
@@ -773,16 +773,16 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "americas: armed forces & conflict": 4.252371556951879
-  "americas: census, land & surveys": 45.085097486575165
-  "americas: churches & religion": 0.06947196882881057
-  "americas: education & work": 0.07293528941946936
-  "americas: institutions & organisations": 0.3161955340773684
-  "americas: life events (bmds)": 39.657453935134875
-  "americas: newspapers, directories & social history": 0.9431292210283996
-  "americas: travel & migration": 9.225442009259808
-  "asia: life events (bmds)": 0.37357012105298104
-  "asia: newspapers, directories & social history": 0.004332877671242582
+  "Americas: Armed Forces & Conflict": 4.252371556951879
+  "Americas: Census, Land & Surveys": 45.085097486575165
+  "Americas: Churches & Religion": 0.06947196882881057
+  "Americas: Education & Work": 0.07293528941946936
+  "Americas: Institutions & Organisations": 0.3161955340773684
+  "Americas: Life Events (bmds)": 39.657453935134875
+  "Americas: Newspapers, Directories & Social History": 0.9431292210283996
+  "Americas: Travel & Migration": 9.225442009259808
+  "Asia: Life Events (bmds)": 0.37357012105298104
+  "Asia: Newspapers, Directories & Social History": 0.004332877671242582
 ```
 </td>
 </tr>
@@ -806,9 +806,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 38.88888888888889
-  "paid": 60.18518518518518
-  "unknown": 0.9259259259259258
+  "Free": 38.88888888888889
+  "Paid": 60.18518518518518
+  "Unknown": 0.9259259259259258
 ```
 </td>
 <td valign="top">
@@ -816,9 +816,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 6.459144785115484
-  "paid": 93.46308894811224
-  "unknown": 0.07776626677228365
+  "Free": 6.459144785115484
+  "Paid": 93.46308894811224
+  "Unknown": 0.07776626677228365
 ```
 </td>
 </tr>
@@ -842,9 +842,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 48.64864864864865
-  "paid": 49.549549549549546
-  "unknown": 1.8018018018018018
+  "Free": 48.64864864864865
+  "Paid": 49.549549549549546
+  "Unknown": 1.8018018018018018
 ```
 </td>
 <td valign="top">
@@ -852,9 +852,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 23.633391090216328
-  "paid": 76.36186289742234
-  "unknown": 0.0047460123613399475
+  "Free": 23.633391090216328
+  "Paid": 76.36186289742234
+  "Unknown": 0.0047460123613399475
 ```
 </td>
 </tr>
@@ -878,9 +878,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 33.33333333333333
-  "paid": 66.66666666666666
-  "unknown": 0
+  "Free": 33.33333333333333
+  "Paid": 66.66666666666666
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -888,9 +888,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 62.30024284886845
-  "paid": 37.69975715113155
-  "unknown": 0
+  "Free": 62.30024284886845
+  "Paid": 37.69975715113155
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -914,9 +914,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 34.78260869565217
-  "paid": 65.21739130434783
-  "unknown": 0
+  "Free": 34.78260869565217
+  "Paid": 65.21739130434783
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -924,9 +924,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 99.89647224608696
-  "paid": 0.10352775391303337
-  "unknown": 0
+  "Free": 99.89647224608696
+  "Paid": 0.10352775391303337
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -950,9 +950,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 69.04761904761905
-  "paid": 26.190476190476193
-  "unknown": 4.761904761904762
+  "Free": 69.04761904761905
+  "Paid": 26.190476190476193
+  "Unknown": 4.761904761904762
 ```
 </td>
 <td valign="top">
@@ -960,9 +960,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 98.82294926003823
-  "paid": 0.7024931665319329
-  "unknown": 0.47455757342983557
+  "Free": 98.82294926003823
+  "Paid": 0.7024931665319329
+  "Unknown": 0.47455757342983557
 ```
 </td>
 </tr>
@@ -986,9 +986,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 75.51622418879056
-  "paid": 21.828908554572273
-  "unknown": 2.6548672566371683
+  "Free": 75.51622418879056
+  "Paid": 21.828908554572273
+  "Unknown": 2.6548672566371683
 ```
 </td>
 <td valign="top">
@@ -996,9 +996,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 93.60577784565052
-  "paid": 6.282154852129013
-  "unknown": 0.11206730222046257
+  "Free": 93.60577784565052
+  "Paid": 6.282154852129013
+  "Unknown": 0.11206730222046257
 ```
 </td>
 </tr>
@@ -1022,9 +1022,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 13.61111111111111
-  "paid": 86.11111111111111
-  "unknown": 0.2777777777777778
+  "Free": 13.61111111111111
+  "Paid": 86.11111111111111
+  "Unknown": 0.2777777777777778
 ```
 </td>
 <td valign="top">
@@ -1032,9 +1032,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 88.23358607512112
-  "paid": 11.460002283613926
-  "unknown": 0.3064116412649422
+  "Free": 88.23358607512112
+  "Paid": 11.460002283613926
+  "Unknown": 0.3064116412649422
 ```
 </td>
 </tr>
@@ -1058,9 +1058,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 34
-  "paid": 64
-  "unknown": 2
+  "Free": 34
+  "Paid": 64
+  "Unknown": 2
 ```
 </td>
 <td valign="top">
@@ -1068,9 +1068,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 4.226902573827425
-  "paid": 95.7469869083891
-  "unknown": 0.026110517783476967
+  "Free": 4.226902573827425
+  "Paid": 95.7469869083891
+  "Unknown": 0.026110517783476967
 ```
 </td>
 </tr>
@@ -1094,9 +1094,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1104,9 +1104,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1130,9 +1130,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1140,9 +1140,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 100
-  "paid": 0
-  "unknown": 0
+  "Free": 100
+  "Paid": 0
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1166,9 +1166,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 12.903225806451612
-  "paid": 87.09677419354838
-  "unknown": 0
+  "Free": 12.903225806451612
+  "Paid": 87.09677419354838
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1176,9 +1176,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 14.31909611811667
-  "paid": 85.68090388188332
-  "unknown": 0
+  "Free": 14.31909611811667
+  "Paid": 85.68090388188332
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1202,9 +1202,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 14.814814814814813
-  "paid": 85.18518518518519
-  "unknown": 0
+  "Free": 14.814814814814813
+  "Paid": 85.18518518518519
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1212,9 +1212,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.38407932213846124
-  "paid": 99.61592067786154
-  "unknown": 0
+  "Free": 0.38407932213846124
+  "Paid": 99.61592067786154
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1238,9 +1238,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1248,9 +1248,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1274,9 +1274,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 7.894736842105263
-  "paid": 92.10526315789474
-  "unknown": 0
+  "Free": 7.894736842105263
+  "Paid": 92.10526315789474
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1284,9 +1284,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 1.7668274132572461
-  "paid": 98.23317258674275
-  "unknown": 0
+  "Free": 1.7668274132572461
+  "Paid": 98.23317258674275
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1310,9 +1310,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 10.256410256410255
-  "paid": 89.74358974358975
-  "unknown": 0
+  "Free": 10.256410256410255
+  "Paid": 89.74358974358975
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1320,9 +1320,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 1.402491361033057
-  "paid": 98.59750863896694
-  "unknown": 0
+  "Free": 1.402491361033057
+  "Paid": 98.59750863896694
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1346,9 +1346,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 31.958762886597935
-  "paid": 68.04123711340206
-  "unknown": 0
+  "Free": 31.958762886597935
+  "Paid": 68.04123711340206
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1356,9 +1356,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 57.139663206654525
-  "paid": 42.86033679334548
-  "unknown": 0
+  "Free": 57.139663206654525
+  "Paid": 42.86033679334548
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1382,9 +1382,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 8.695652173913043
-  "paid": 91.30434782608695
-  "unknown": 0
+  "Free": 8.695652173913043
+  "Paid": 91.30434782608695
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1392,9 +1392,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.7286708079769785
-  "paid": 99.27132919202302
-  "unknown": 0
+  "Free": 0.7286708079769785
+  "Paid": 99.27132919202302
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1418,9 +1418,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 13.793103448275861
-  "paid": 86.20689655172413
-  "unknown": 0
+  "Free": 13.793103448275861
+  "Paid": 86.20689655172413
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1428,9 +1428,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.2488081459161745
-  "paid": 99.75119185408381
-  "unknown": 0
+  "Free": 0.2488081459161745
+  "Paid": 99.75119185408381
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1454,9 +1454,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 70.83333333333334
-  "paid": 29.166666666666668
-  "unknown": 0
+  "Free": 70.83333333333334
+  "Paid": 29.166666666666668
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1464,9 +1464,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 93.79630838191308
-  "paid": 6.203691618086926
-  "unknown": 0
+  "Free": 93.79630838191308
+  "Paid": 6.203691618086926
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1490,9 +1490,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 20.5
-  "paid": 79.5
-  "unknown": 0
+  "Free": 20.5
+  "Paid": 79.5
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1500,9 +1500,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 31.287368178574944
-  "paid": 68.71263182142506
-  "unknown": 0
+  "Free": 31.287368178574944
+  "Paid": 68.71263182142506
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1526,9 +1526,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 25.263157894736842
-  "paid": 73.68421052631578
-  "unknown": 1.0526315789473684
+  "Free": 25.263157894736842
+  "Paid": 73.68421052631578
+  "Unknown": 1.0526315789473684
 ```
 </td>
 <td valign="top">
@@ -1536,9 +1536,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 8.503003656221434
-  "paid": 91.49505284076719
-  "unknown": 0.0019435030113817888
+  "Free": 8.503003656221434
+  "Paid": 91.49505284076719
+  "Unknown": 0.0019435030113817888
 ```
 </td>
 </tr>
@@ -1562,9 +1562,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 10
-  "paid": 90
-  "unknown": 0
+  "Free": 10
+  "Paid": 90
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1572,9 +1572,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.5408602635628607
-  "paid": 99.45913973643714
-  "unknown": 0
+  "Free": 0.5408602635628607
+  "Paid": 99.45913973643714
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1598,9 +1598,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 18.421052631578945
-  "paid": 81.57894736842105
-  "unknown": 0
+  "Free": 18.421052631578945
+  "Paid": 81.57894736842105
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1608,9 +1608,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 7.574511100379505
-  "paid": 92.42548889962049
-  "unknown": 0
+  "Free": 7.574511100379505
+  "Paid": 92.42548889962049
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1634,9 +1634,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 15.584415584415584
-  "paid": 84.4155844155844
-  "unknown": 0
+  "Free": 15.584415584415584
+  "Paid": 84.4155844155844
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1644,9 +1644,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 12.88994206811393
-  "paid": 87.11005793188606
-  "unknown": 0
+  "Free": 12.88994206811393
+  "Paid": 87.11005793188606
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1670,9 +1670,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 60.86956521739131
-  "paid": 39.130434782608695
-  "unknown": 0
+  "Free": 60.86956521739131
+  "Paid": 39.130434782608695
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1680,9 +1680,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 69.25683234280451
-  "paid": 30.74316765719548
-  "unknown": 0
+  "Free": 69.25683234280451
+  "Paid": 30.74316765719548
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1706,9 +1706,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 15.789473684210526
-  "paid": 84.21052631578947
-  "unknown": 0
+  "Free": 15.789473684210526
+  "Paid": 84.21052631578947
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1716,9 +1716,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 1.4372882989330977
-  "paid": 98.5627117010669
-  "unknown": 0
+  "Free": 1.4372882989330977
+  "Paid": 98.5627117010669
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1742,9 +1742,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 53.84615384615385
-  "paid": 46.15384615384615
-  "unknown": 0
+  "Free": 53.84615384615385
+  "Paid": 46.15384615384615
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1752,9 +1752,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.2953557520245033
-  "paid": 99.7046442479755
-  "unknown": 0
+  "Free": 0.2953557520245033
+  "Paid": 99.7046442479755
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1778,9 +1778,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 35.714285714285715
-  "paid": 64.28571428571429
-  "unknown": 0
+  "Free": 35.714285714285715
+  "Paid": 64.28571428571429
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1788,9 +1788,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 31.489875766595745
-  "paid": 68.51012423340426
-  "unknown": 0
+  "Free": 31.489875766595745
+  "Paid": 68.51012423340426
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1814,9 +1814,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 33.33333333333333
-  "paid": 66.66666666666666
-  "unknown": 0
+  "Free": 33.33333333333333
+  "Paid": 66.66666666666666
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1824,9 +1824,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 73.6004961141594
-  "paid": 26.399503885840602
-  "unknown": 0
+  "Free": 73.6004961141594
+  "Paid": 26.399503885840602
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1850,9 +1850,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 25
-  "paid": 75
-  "unknown": 0
+  "Free": 25
+  "Paid": 75
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1860,9 +1860,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 3.387409826422981
-  "paid": 96.61259017357702
-  "unknown": 0
+  "Free": 3.387409826422981
+  "Paid": 96.61259017357702
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1886,9 +1886,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 13.333333333333334
-  "paid": 86.66666666666667
-  "unknown": 0
+  "Free": 13.333333333333334
+  "Paid": 86.66666666666667
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1896,9 +1896,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 45.03947073844187
-  "paid": 54.960529261558136
-  "unknown": 0
+  "Free": 45.03947073844187
+  "Paid": 54.960529261558136
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1922,9 +1922,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 16.666666666666664
-  "paid": 83.33333333333334
-  "unknown": 0
+  "Free": 16.666666666666664
+  "Paid": 83.33333333333334
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1932,9 +1932,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.8929888456268726
-  "paid": 99.10701115437313
-  "unknown": 0
+  "Free": 0.8929888456268726
+  "Paid": 99.10701115437313
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1958,9 +1958,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 54.054054054054056
-  "paid": 45.94594594594595
-  "unknown": 0
+  "Free": 54.054054054054056
+  "Paid": 45.94594594594595
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -1968,9 +1968,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 75.1897870321041
-  "paid": 24.810212967895893
-  "unknown": 0
+  "Free": 75.1897870321041
+  "Paid": 24.810212967895893
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -1994,9 +1994,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 10.666666666666668
-  "paid": 89.33333333333333
-  "unknown": 0
+  "Free": 10.666666666666668
+  "Paid": 89.33333333333333
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -2004,9 +2004,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0.8885232725097783
-  "paid": 99.11147672749023
-  "unknown": 0
+  "Free": 0.8885232725097783
+  "Paid": 99.11147672749023
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -2030,9 +2030,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 25
-  "paid": 75
-  "unknown": 0
+  "Free": 25
+  "Paid": 75
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -2040,9 +2040,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 99.90259478347257
-  "paid": 0.0974052165274308
-  "unknown": 0
+  "Free": 99.90259478347257
+  "Paid": 0.0974052165274308
+  "Unknown": 0
 ```
 </td>
 </tr>
@@ -2066,9 +2066,9 @@ title Records
 ```mermaid
 pie
 title Datasets
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 <td valign="top">
@@ -2076,9 +2076,9 @@ title Datasets
 ```mermaid
 pie
 title Records
-  "free": 0
-  "paid": 100
-  "unknown": 0
+  "Free": 0
+  "Paid": 100
+  "Unknown": 0
 ```
 </td>
 </tr>
