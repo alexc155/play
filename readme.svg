@@ -16,7 +16,8 @@
           padding: 0px 0px 0px 20px;
         }
         h1 {
-          font-family: "Azo Sans", sans-serif
+          font-family: "Azo Sans", sans-serif;
+          color: #D9AC40;
         }
       </style>
 
