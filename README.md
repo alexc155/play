@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="./readme.svg">
-    <img src="readme.svg" style="width: 100%;" alt="">
-  </a>
+  <img src="readme.svg" style="width: 100%;" alt="">
 </div>
+
+[Next Slide](./test.md)
