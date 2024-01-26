@@ -7,16 +7,16 @@
           height: 600px;
           background-color: #2C2A58;
           color: white;
+          font-family: "Azo Sans", sans-serif;
         }
         .logo {
           width: 95%;
-          padding: 20px 20px 20px 20px;
+          padding: 10px 0px 0px 30px;
         }
         .leftMargin {
           padding: 0px 0px 0px 20px;
         }
         h1 {
-          font-family: "Azo Sans", sans-serif;
           color: #F2C047;
         }
       </style>
