@@ -6,13 +6,17 @@
           display: flex;
           width: 100%;
           height: 600px;
-          background-color: black;
+          background-color: #232145;
           color: white;
+        }
+        h1 {
+          font-family: "Azo Sans", sans-serif
         }
       </style>
 
       <div class="container">
-        <h1>Hi👋</h1>
+        <h1>
+          <img src="./Logo.png" align="right" />Record Entitlements Overview</h1>
       </div>
     </div>
   </foreignObject>
